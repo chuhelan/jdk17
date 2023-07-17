@@ -1,4 +1,4 @@
-package com.modulea;
+package test.modulea;
 
 /**
  * @Author：chuhelan
